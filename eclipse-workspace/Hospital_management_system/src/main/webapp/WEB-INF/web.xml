@@ -1,0 +1,43 @@
+
+	<web-app id="WebApp_ID">
+		<display-name>Hospital_management_system</display-name>
+		<welcome-file-list>
+			<welcome-file>index.html</welcome-file>
+			<welcome-file>index.htm</welcome-file>
+			<welcome-file>index.jsp</welcome-file>
+			<welcome-file>default.html</welcome-file>
+			<welcome-file>default.htm</welcome-file>
+			<welcome-file>default.jsp</welcome-file>
+		</welcome-file-list>
+	</web-app><!--<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+    <servlet-name>AdminLogOut</servlet-name>
+    <display-name>AdminLogOut</display-name>
+    <description></description>
+    <servlet-class>com.admin.servlet.AdminLogOut</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>UserRegister</servlet-name>
+    <display-name>UserRegister</display-name>
+    <description></description>
+    <servlet-class>com.user.servlet.UserRegister</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AdminLogOut</servlet-name>
+    <url-pattern>/adminLogOut</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>UserRegister</servlet-name>
+    <url-pattern>/userRegister</url-pattern>
+  </servlet-mapping>
+
+</web-app>-->
