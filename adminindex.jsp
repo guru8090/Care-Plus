@@ -1,0 +1,1 @@
+admin/index.jsp check why you are using succMsg
